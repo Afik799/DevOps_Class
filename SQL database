@@ -1,0 +1,20 @@
+Username: P0PvfGbwKl
+
+Database name: P0PvfGbwKl
+
+Password: BvZW0m8DXo
+
+Server: remotemysql.com
+
+Port: 3306
+
+These are the username and password to log in to your database and phpMyAdmin
+
+
+
+SQL flags for table column
+
+PK - Primary Key, can't be null and can't appear twice
+NN - Not null, none of the values can be null
+UN - Unsigned, allows using non negetive number ranges, 0-1000 instead of -500 - 500
+ZF - Zero filled, allows to every field to minimum number of values, example INT(5) is 00367, 00001, 00029
