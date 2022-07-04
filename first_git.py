@@ -1,1 +1,1 @@
-git a
+print(123)
