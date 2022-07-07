@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce312bcd-337e-431f-8a65-abdc296c6776" name="Changes" comment="adding pipeline as a code">
+    <list default="true" id="ce312bcd-337e-431f-8a65-abdc296c6776" name="Changes" comment="Changed user id and name from input to static on testing&#10;commented out db connector table print">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Project/combined_testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Project/combined_testing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Project/db_connector.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Project/db_connector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Project/rest_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Project/rest_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Project/web_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Project/web_app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +20,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="main" />
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Python_Project" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -199,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656955700855</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Changed user id and name from input to static on testing&#10;commented out db connector table print">
+      <created>1657220577091</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657220577091</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -227,6 +239,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="changing first_git.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="changing first_git.py" />
+    <MESSAGE value="Changed user id and name from input to static on testing&#10;commented out db connector table print" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed user id and name from input to static on testing&#10;commented out db connector table print" />
   </component>
 </project>
