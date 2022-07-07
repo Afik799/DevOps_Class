@@ -4,8 +4,8 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 
 try:
-    user_id = input("Enter a user id please: ")
-    user_name = input("Enter a user name please: ")
+    user_id = 1
+    user_name = "afik"
 
     requests.post(url=f"http://localhost:5000/users/{int(user_id)}", json={"user_name": user_name})
     requests.get(url=f"http://localhost:5000/users/{int(user_id)}")

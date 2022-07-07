@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce312bcd-337e-431f-8a65-abdc296c6776" name="Changes" comment="" />
+    <list default="true" id="ce312bcd-337e-431f-8a65-abdc296c6776" name="Changes" comment="adding pipeline as a code">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Project/combined_testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Project/combined_testing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Project/db_connector.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Project/db_connector.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -172,9 +176,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.web_app" />
-        <item itemvalue="Python.db_connector" />
         <item itemvalue="Python.rest_app" />
         <item itemvalue="Python.combined_testing" />
+        <item itemvalue="Python.db_connector" />
         <item itemvalue="Python.testing" />
       </list>
     </recent_temporary>
