@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce312bcd-337e-431f-8a65-abdc296c6776" name="Changes" comment="added clean enviorment route">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Project/backend.testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Project/backend_testing.py" afterDir="false" />
-    </list>
+    <list default="true" id="ce312bcd-337e-431f-8a65-abdc296c6776" name="Changes" comment="changed changed clear name" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -216,7 +213,21 @@
       <option name="project" value="LOCAL" />
       <updated>1657229592884</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="changed backend testing name">
+      <created>1657277267288</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657277267288</updated>
+    </task>
+    <task id="LOCAL-00005" summary="changed changed clear name">
+      <created>1657277468954</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657277468954</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -246,6 +257,8 @@
     <MESSAGE value="changing first_git.py" />
     <MESSAGE value="Changed user id and name from input to static on testing&#10;commented out db connector table print" />
     <MESSAGE value="added clean enviorment route" />
-    <option name="LAST_COMMIT_MESSAGE" value="added clean enviorment route" />
+    <MESSAGE value="changed backend testing name" />
+    <MESSAGE value="changed changed clear name" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed changed clear name" />
   </component>
 </project>
