@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce312bcd-337e-431f-8a65-abdc296c6776" name="Changes" comment="Changed user id and name from input to static on testing&#10;commented out db connector table print">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="ce312bcd-337e-431f-8a65-abdc296c6776" name="Changes" comment="added clean enviorment route">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Project/rest_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Project/rest_app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Project/web_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Project/web_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Project/backend.testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Project/backend_testing.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657220577091</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added clean enviorment route">
+      <created>1657229592884</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657229592884</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -240,6 +245,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="changing first_git.py" />
     <MESSAGE value="Changed user id and name from input to static on testing&#10;commented out db connector table print" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed user id and name from input to static on testing&#10;commented out db connector table print" />
+    <MESSAGE value="added clean enviorment route" />
+    <option name="LAST_COMMIT_MESSAGE" value="added clean enviorment route" />
   </component>
 </project>
